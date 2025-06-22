@@ -1,1 +1,9 @@
-# elci1
+# Optimization dosyası 
+
+
+# Sekmeyi Azalt
+# Hit Önceliği Kur
+# Regedit 
+# Önbelliği Temizle
+
+# RegeditWorld!
